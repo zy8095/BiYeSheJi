@@ -76,6 +76,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ClientBin\" />
+    <Folder Include="DAO\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
